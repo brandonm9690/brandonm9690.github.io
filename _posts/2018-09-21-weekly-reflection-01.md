@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A weekly reflection
-date:2018-09-21
+date: 2018-09-21
 ---
 
 
