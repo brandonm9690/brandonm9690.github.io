@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Blog 2"
+title: "A Weekly Reflection 2"
 date: 2018-09-27
 ---
 
