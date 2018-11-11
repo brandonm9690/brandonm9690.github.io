@@ -1,7 +1,7 @@
 ---
-layout:post
-title:Weekly reflection-08
-date:2018-11-09
+layout: post
+title: Weekly reflection-08
+date: 2018-11-09
 ---
 
 
