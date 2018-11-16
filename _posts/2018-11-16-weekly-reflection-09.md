@@ -1,7 +1,7 @@
 ---
 layout:post
-title: A Weekly Reflection-09 
-date: 2018-11-16
+title:A Weekly Reflection-09 
+date:2018-11-16
 ---
 
 
