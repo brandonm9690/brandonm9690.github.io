@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: A Weekly Reflection-10
 date: 2018-11-20
 ---
