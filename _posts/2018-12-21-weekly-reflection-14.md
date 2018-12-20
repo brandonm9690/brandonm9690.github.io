@@ -17,7 +17,7 @@ Flag of Greece by Brandon Moctezuma
 
 
 ## Describe your process.
-The help from my peers that helped me get to this point was put-image and define. 
+The help from my peers that helped me get to this point was put-image and define. This helped me get the code to layover other code to in the end form the flag to how it is. 
 
 
 ## Explain your code.
@@ -38,7 +38,7 @@ The help from my peers that helped me get to this point was put-image and define
 (put-image (square 180 "solid" "royalblue")
 ```
 
-This piece of code is the base of the flag and the stripes which make it up. 
+This piece of code is the base of the flag and the stripes which make it up.  Put-image helps the put an image into another image so that it can turn into the Greece Flag.
 
 ## Program code
 
