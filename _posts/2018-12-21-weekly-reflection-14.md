@@ -21,24 +21,7 @@ The help from my peers that helped me get to this point was put-image and define
 
 
 ## Explain your code.
-
-```
-(put-image (rectangle 600 25 "solid" white)
-                                280 48
-(put-image (rectangle 300 25 "solid" white)
-                                280 205
-(put-image (rectangle 600 25 "solid" white)
-                                280 103
-(put-image (rectangle 300 25 "solid" white)
-                                280 155
-(put-image (rotate 90(rectangle 180 25 "solid" white))
-                                65 205  
-(put-image (rectangle 180 25 "solid" white)
-                                40 180 
-(put-image (square 180 "solid" "royalblue")
-```
-
-This piece of code is the base of the flag and the stripes which make it up.  Put-image helps the put an image into another image so that it can turn into the Greece Flag.
+This piece of code is the base of the flag and the stripes which make it up.  Put-image helps the put an image into another image so that it can turn into the Greece Flag. The define part helps me be able to make a shortcut for the "white" part of the code.
 
 ## Program code
 
