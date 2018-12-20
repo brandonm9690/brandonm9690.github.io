@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Flag Project - Final Submission"
+date: 2018-12-21
+---
+Flag of Greece by Brandon Moctezuma
+
+
+
+-  The country that I designed for is Greece 
+-  The grade I expect to get is apprentice
+
+![Flag](/images/final-flag.png)
+
+
+
+
+The help from my peers that helped me get to this point was put-image and define. 
+
+
+## Explain your code.
+(put-image (rectangle 600 25 "solid" white)
+                                280 48
+(put-image (rectangle 300 25 "solid" white)
+                                280 205
+(put-image (rectangle 600 25 "solid" white)
+                                280 103
+(put-image (rectangle 300 25 "solid" white)
+                                280 155
+(put-image (rotate 90(rectangle 180 25 "solid" white))
+                                65 205  
+(put-image (rectangle 180 25 "solid" white)
+                                40 180 
+(put-image (square 180 "solid" "royalblue")
+
+This piece of code is the base of the flag and the stripes which make it up. 
+
+* * *
+
+```
+(put-image (rectangle 600 25 "solid" white)
+                                280 48
+(put-image (rectangle 300 25 "solid" white)
+                                280 205
+(put-image (rectangle 600 25 "solid" white)
+                                280 103
+(put-image (rectangle 300 25 "solid" white)
+                                280 155
+(put-image (rotate 90(rectangle 180 25 "solid" white))
+                                65 205  
+(put-image (rectangle 180 25 "solid" white)
+                                40 180
+(put-image (square 180 "solid" "royalblue")
+                                40 220
+                                 (put-image (circle 0.11 "solid" white)
+                                            77 80 
+                                            (rectangle 385 245"solid" "royalblue")))))))))
+
+(define white "whitesmoke" )
+```
+
+
+This code fits because it gives the flag of greece.
