@@ -10,15 +10,19 @@ Flag of Greece by Brandon Moctezuma
 -  The country that I designed for is Greece 
 -  The grade I expect to get is apprentice
 
+## Current output
+
 ![Flag](/images/final-flag.png)
 
 
 
-
+## Describe your process.
 The help from my peers that helped me get to this point was put-image and define. 
 
 
 ## Explain your code.
+
+```
 (put-image (rectangle 600 25 "solid" white)
                                 280 48
 (put-image (rectangle 300 25 "solid" white)
@@ -32,10 +36,11 @@ The help from my peers that helped me get to this point was put-image and define
 (put-image (rectangle 180 25 "solid" white)
                                 40 180 
 (put-image (square 180 "solid" "royalblue")
+```
 
 This piece of code is the base of the flag and the stripes which make it up. 
 
-* * *
+## Program code
 
 ```
 (put-image (rectangle 600 25 "solid" white)
@@ -59,5 +64,4 @@ This piece of code is the base of the flag and the stripes which make it up.
 (define white "whitesmoke" )
 ```
 
-
-This code fits because it gives the flag of greece.
+![Flag](/images/final-flag.png)
